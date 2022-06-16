@@ -1,5 +1,6 @@
 # Study C Basic
 C학습 리포지토리
+![CLogo](https://raw.githubusercontent.com/sshyun9/StudyC-Kasan/main/images/KakaoTalk_20220616_173700340.png)
 
 <br/>
 
